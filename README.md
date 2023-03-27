@@ -5,6 +5,6 @@ The app verifies the size of the file before uploading it, and if the file is la
 
 Once the file is successfully uploaded, the app provides a confirmation message to the user, letting them know that the upload was successful.
 
-This project was created as part of a 100 days of code challenge i participated in with the aim of improving my coding skills.
+This project was created as part of a 100 days of code challenge i participated in with the aim of improving my coding skills. It was coded in vanilla javascript, html & css.
 
 Overall, this web app provides a reliable and efficient way for users to upload files smaller than 20MB to a server, making it an ideal choice for individuals and businesses that require file sharing and storage capabilities
