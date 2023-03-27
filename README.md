@@ -1,4 +1,4 @@
-# File-Uploader
+# A simple image File-Uploader
 This web app allows users to upload files that are smaller than 20MB to a server. It provides a simple and user-friendly interface that enables users to select a file from their device and upload it to the server.
 
 The app verifies the size of the file before uploading it, and if the file is larger than 20MB, the user will receive an error message and be prompted to select a smaller file.
